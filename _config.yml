@@ -1,3 +1,4 @@
 name: Kevin Barroga, Xriva Oneebtn
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: cayman
